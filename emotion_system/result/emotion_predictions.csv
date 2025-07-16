@@ -1,0 +1,12 @@
+﻿ファイル名,検出顔数,表情ラベル,信頼度
+family.jpg,2,Happy,0.8192
+family.jpg,2,Happy,0.6314
+my_family2.jpg,9,Happy,0.9693
+my_family2.jpg,9,Happy,0.988
+my_family2.jpg,9,Happy,0.841
+my_family2.jpg,9,Happy,0.8585
+my_family2.jpg,9,Sad,0.5726
+my_family2.jpg,9,Sad,0.3314
+my_family2.jpg,9,Sad,0.2751
+my_family2.jpg,9,Happy,0.716
+my_family2.jpg,9,Happy,0.9597
